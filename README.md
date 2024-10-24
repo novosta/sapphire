@@ -9,7 +9,7 @@ Sapphire (SAPP) is a cross-platform tool designed to manage users, groups, and s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/sapphire.git
+   git clone https://github.com/novosta/sapphire.git
    cd sapphire
    ```
 
